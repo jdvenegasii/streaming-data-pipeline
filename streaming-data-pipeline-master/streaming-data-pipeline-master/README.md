@@ -1,4 +1,4 @@
-# Hours with Experts - Streaming Data Pipeline
+Streaming Data Pipeline
 
 A [Spark streaming](https://spark.apache.org/docs/latest/) application that ingests data
 from [Kafka](https://kafka.apache.org/), supplements with data stored in [HBase](https://hbase.apache.org/book.html),
